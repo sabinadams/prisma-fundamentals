@@ -21,10 +21,6 @@ A comprehensive course on using Prisma
 1. Overview of Prisma Schema Language
 2. What is a Prisma schema?
 3. What is in a Prisma schema?
-4. What makes this special?
-5. How does the schema work?
-6. A look at a full schema
-7. Tooling
 
 ---
 
